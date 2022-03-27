@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">duan1_nhom1</string>
+    <string name="edtTimSanPham">Tìm Sản Phẩm</string>
+    <string name="edtTimHoaDon">Tìm Hóa Đơn</string>
+</resources>
